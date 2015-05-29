@@ -1,0 +1,28 @@
+{
+  "name": "arrayify-slice",
+  "version": "0.0.1",
+  "description": "slice Array-like collections and return an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoubin/arrayify-slice.git"
+  },
+  "keywords": [
+    "arrayify",
+    "slice",
+    "array"
+  ],
+  "author": "zoubin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoubin/arrayify-slice/issues"
+  },
+  "homepage": "https://github.com/zoubin/arrayify-slice#readme",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.0.0"
+  }
+}
