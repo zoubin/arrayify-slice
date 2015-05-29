@@ -1,6 +1,6 @@
 {
   "name": "arrayify-slice",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "slice Array-like collections and return an array",
   "main": "index.js",
   "scripts": {
